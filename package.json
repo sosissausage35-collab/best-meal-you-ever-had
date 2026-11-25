@@ -1,0 +1,1 @@
+{"description":"Writes one sentence about the best meal I ever had to /output/entry.txt for make.fun's \"The Best Meal You Ever Had\" bounty.","engines":{"node":">=22"},"license":"MIT","name":"best-meal-you-ever-had","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
